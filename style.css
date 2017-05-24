@@ -1,0 +1,26 @@
+body{
+	text-align: center;
+}
+div#container
+{
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 50em;
+}
+
+p{
+	color: black;
+}
+
+body 
+{
+	background-image: url("55.jpg") ;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+}
+
+#tout {
+	margin-top: 150px;
+}
